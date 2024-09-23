@@ -1,14 +1,15 @@
 ## Hey! I'm Janhavi 👋. (She/her)
 
-I'm a Data Science and Analytics student studying in Boston. 
+I'm a Data Science and Analytics student, studying in Boston. 
 
 ### Courses that I have taken and/or currently taking in this field;
 - (STAT118) Introduction to Statistics 
 - (CS 112) Introduction to Computer Science (Learnt Python Programming)
-- (STAT228) Introduction to Data Science (Learning R Programming)
+- (STAT228) Introduction to Data Science (Learnt R Programming)
+- (CS 110) Introduction to Information Technology (Learning HTML, CSS Programming)
 
 ### Current Project?
-I am currently working on my final project for the Introduction to Data Science Course.
+None as of now. 
 
 ### ✨ Fun Facts
 - As a kid, I wanted to go into the research medical field and study:
