@@ -3,11 +3,11 @@
 I'm a Data Science and Analytics student, studying in Boston. 
 
 ### Courses that I have taken and/or currently taking in this field;
-Languages & Tools: Python, R, RStudio, SQL, MongoDB, HTML, CSS, JavaScript, Visual Studio Code
-Data Science & Analysis: Tidyverse, dplyr, ggplot2, Statistical Modeling
-Database & Data Management: Relational Databases, NoSQL, Data Cleaning and Wrangling, 
-Statistical Techniques: Regression Analysis, Chi-Square Test, Welch's T-Test, Experimental Design
-Soft Skills: Communication, Collaboration, Problem Solving, Teaching Assistance. 
+- Languages & Tools: Python, R, RStudio, SQL, MongoDB, HTML, CSS, JavaScript, Visual Studio Code
+- Data Science & Analysis: Tidyverse, dplyr, ggplot2, Statistical Modeling
+- Database & Data Management: Relational Databases, NoSQL, Data Cleaning and Wrangling, 
+- Statistical Techniques: Regression Analysis, Chi-Square Test, Welch's T-Test, Experimental Design
+- Soft Skills: Communication, Collaboration, Problem Solving, Teaching Assistance. 
 
 ### ✨ I am a ...
 - Gamer: I enjoy playing PS4 games like Tekken, Far Cry, NeedforSpeed, etc.
