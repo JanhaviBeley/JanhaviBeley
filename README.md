@@ -1,15 +1,14 @@
 ## Hi there 👋
 
 # About me:
-My name is Janhavi (Pronounced as 'Jaan-V')
-Pronouns: She/her
+- My name is Janhavi (Pronounced as 'Jaan-V')
+- Pronouns: She/her
 
 
 Fun facts:
-I have completed grade 6 of Trinity College of London Piano
-I'm a Data Science and Analytics student, studying in Boston. 
+- I have completed grade 6 of Trinity College of London Piano
+- I'm a Data Science and Analytics student, studying in Boston. 
 
-#  💻Tech Tools: 
 <h2> 💻 &nbsp;Tech Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -32,4 +31,4 @@ I'm a Data Science and Analytics student, studying in Boston.
 - Reader: I enjoy reading contemporary, fantasy, historicial fiction, murder mystery books.
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/janhavi-beley-660037226/).
+[LinkedIn](https://www.linkedin.com/in/janhavi-beley-660037226/)
