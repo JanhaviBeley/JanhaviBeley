@@ -53,7 +53,3 @@ Fun facts:
 - Database & Data Management: Relational Databases, NoSQL, Data Cleaning and Wrangling, 
 - Statistical Techniques: Regression Analysis, Chi-Square Test, Welch's T-Test, Experimental Design
 - Soft Skills: Communication, Collaboration, Problem Solving, Teaching Assistance. 
-
-
-### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/janhavi-beley-660037226/)
