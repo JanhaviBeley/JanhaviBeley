@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# About me:
+## About me:
 - My name is Janhavi (Pronounced as 'Jaan-V')
 - Pronouns: She/her
 
