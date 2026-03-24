@@ -42,12 +42,10 @@ Fun facts:
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-<p align="center">
+### Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbeley2301@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/janhavibeley~2301/))
-
-</p>
+![[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbeley2301@email.com)
+![[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/janhavibeley~2301/))
 
 ### Courses that I have taken and/or currently taking in this field;
 - Languages & Tools: Python, R, RStudio, SQL, MongoDB, HTML, CSS, JavaScript, Visual Studio Code
@@ -56,11 +54,6 @@ Fun facts:
 - Statistical Techniques: Regression Analysis, Chi-Square Test, Welch's T-Test, Experimental Design
 - Soft Skills: Communication, Collaboration, Problem Solving, Teaching Assistance. 
 
-### ✨ I am a ...
-- Gamer: I enjoy playing PS4 games like Tekken, Far Cry, NeedforSpeed, etc.
-- Pianist: Completed Grade 6 of Trinity College of London Piano.
-- Foodie: I enjoy going to weddings for food (who doesn't?). Looking forward to Exploring Boston.
-- Reader: I enjoy reading contemporary, fantasy, historicial fiction, murder mystery books.
 
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/janhavi-beley-660037226/)
