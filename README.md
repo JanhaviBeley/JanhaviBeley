@@ -9,13 +9,14 @@
 Fun facts:
 - I have completed grade 6 of Trinity College of London Piano
 
-### IDE
+## IDE
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-### Languages
+##Skills
+- Languages
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
@@ -25,7 +26,7 @@ Fun facts:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
 
 
-### Libraries
+- Libraries
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -36,8 +37,7 @@ Fun facts:
 ![tidyr](https://img.shields.io/badge/tidyr-00A087?style=for-the-badge&logo=r&logoColor=white)
 ![shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-
-### Databases
+- Databases
 
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
