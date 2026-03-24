@@ -13,7 +13,7 @@ Fun facts:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="bash" width="45" height="45"/>
-<img src="https://camo.githubusercontent.com/73095dff05fb3b80876b3f196ee1ee834f59e8fc3c31a8bf0151e0b5c040bfed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532333337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="bash" height="45"/>
+<img src="https://camo.githubusercontent.com/73095dff05fb3b80876b3f196ee1ee834f59e8fc3c31a8bf0151e0b5c040bfed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532333337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="bash"/>
 </p>
 
 
