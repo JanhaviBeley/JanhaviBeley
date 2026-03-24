@@ -3,11 +3,11 @@
 ## About me:
 - My name is Janhavi (Pronounced as 'Jaan-V')
 - Pronouns: She/her
+- 🎓 Student pursuing Data Science and Analytics in Boston
 
 
 Fun facts:
 - I have completed grade 6 of Trinity College of London Piano
-- I'm a Data Science and Analytics student, studying in Boston. 
 
 ### IDE
 
@@ -42,7 +42,12 @@ Fun facts:
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
+<p align="center">
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbeley2301@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/janhavibeley~2301/))
+
+</p>
 
 ### Courses that I have taken and/or currently taking in this field;
 - Languages & Tools: Python, R, RStudio, SQL, MongoDB, HTML, CSS, JavaScript, Visual Studio Code
