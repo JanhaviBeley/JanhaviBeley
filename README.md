@@ -3,11 +3,8 @@
 ## About me:
 - My name is Janhavi (Pronounced as 'Jaan-V')
 - Pronouns: She/her
-- 🎓 Student pursuing Data Science and Analytics in Boston
+- 🎓 Student pursuing Data Science and AI in Boston
 
-
-Fun facts:
-- I have completed grade 6 of Trinity College of London Piano
 
 ## IDE
 
