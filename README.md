@@ -33,6 +33,7 @@
 ![ggplot2](https://img.shields.io/badge/ggplot2-E84A5F?style=for-the-badge&logo=r&logoColor=white)
 ![tidyr](https://img.shields.io/badge/tidyr-00A087?style=for-the-badge&logo=r&logoColor=white)
 ![shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Maptplotlib](https://img.shields.io/badge/Matplotlib-2C2D72.svg?style=for-the-badge&logo=matplotlib&logoColor=white&logoWidth=20)
 
 - ### **Databases**
 
