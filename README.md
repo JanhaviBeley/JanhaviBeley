@@ -1,11 +1,47 @@
 # Hi there 👋
 
-## About me: 
-- My name is Janhavi (Pronounced as 'Jaan-V')
-- Pronouns: She/her
-- 🎓 Student pursuing Data Science and AI in Boston
+---
 
+## 👩‍💻 About Me
 
+```yaml
+Name       : Janhavi Beley
+Degree     : B.S. in Data Science and AI @ Simmons University
+Fellowship : Break Through Tech AI Program Fellow (2026–2027) | NASA-DREAM-WSTEM
+Focus      : AI Engineering, Machine Learning
+Location   : Boston, Massachussets
+Status     : Open to internships and entry-level opportunities
+```
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavibeley/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavibeley@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1F3864?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanhaviBeley)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+[![NASA Funded DREAM\_WSTEM Fellow](https://img.shields.io/badge/NASA%20Funded%20DREAM_WSTEM%20Fellow-0B3D91?style=for-the-badge\&logoColor=white)](https://www.simmons.edu/academics/learning-simmons/stem-simmons/dream-stem)
+![Break Through Tech AI Fellow](https://img.shields.io/badge/Break%20Through%20Tech%20AI%20Fellow-00A86B?style=for-the-badge\&logoColor=white)
+
+![Environmental Researcher](https://img.shields.io/badge/Environmental%20Researcher-2E7D32?style=for-the-badge\&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-6A1B9A?style=for-the-badge\&logoColor=white)
+
+![Learning Assistant](https://img.shields.io/badge/Learning%20Assistant-D35400?style=for-the-badge\&logoColor=white)
+
+![SCANS Poster Presentation Winner](https://img.shields.io/badge/SCANS%20Poster%20Presentation%20Winner-1565C0?style=for-the-badge\&logoColor=white)
+
+![Harvard WE Tech 2026 Scholar](https://img.shields.io/badge/Harvard%20WE%20Tech%202026%20Scholar-A51C30?style=for-the-badge\&logoColor=white)
+
+</div>
 ## IDE
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
