@@ -55,7 +55,7 @@ I'm a data science and AI major who likes projects that start with a real questi
 
 | Project | Description |
 |---|---|
-| [**Women in the Workforce**](https://github.com/JanhaviBeley/women_workforce_analysis) | Chi-square & Welch's t-test analysis of U.S. gender representation and pay gaps by occupation, in R / R Markdown. |
+| [**Women in the Workforce Analysis **](https://github.com/JanhaviBeley/Women-in-Workforce-Analysis) | Chi-square & Welch's t-test analysis of U.S. gender representation and pay gaps by occupation, in R / R Markdown. |
 | [**Investigating India's Air Quality**](https://github.com/JanhaviBeley/Investigating-India-Air-Quality) | PM2.5/PM10 pollution analysis across Indian states and cities, with geographic hotspot mapping in Python. |
 | [**Deep Learning for *C. elegans* Behaviour**](https://github.com/JanhaviBeley/Deep-Learning-Worm_Tracking) | Applying YOLO/StrongSORT-based deep learning and Fourier analysis to worm movement tracking for Parkinson's disease research. |
 
