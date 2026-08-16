@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Janhavi 👋</h1>
+<h1 align="center">Hi, I'm Janhavi 👋</h1> 
 
 <p align="center">
   Data Science & AI student turning messy real-world data into clear, defensible insight.
