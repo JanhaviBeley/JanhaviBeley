@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://janhavibeley.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://janhavibeley.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavibeley/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavibeley@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1F3864?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanhaviBeley)
