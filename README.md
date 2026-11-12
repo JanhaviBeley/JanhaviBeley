@@ -49,7 +49,7 @@ I'm a data science and AI major who likes projects that start with a real questi
 
 - 🏅 **SACNAS National Diversity in STEM Conference (2025)** — received the Student Presentation Award for a poster on Muddy River / Jamaica Pond water quality, also presented at PITTCON 2025.
 - 🔬 **DREAM-WSTEM Research (NASA-MUREP funded)** — chemical water-quality analysis (pH, conductivity, dissolved oxygen, metals/anions) of Boston's Muddy River and Jamaica Pond.
-- 🤖 **Break Through Tech AI Program Fellow (2026–2027)** — applied ML fellowship.
+- 🤖 **Break Through Tech AI Program Fellow (2026–2027)** — applied AI fellowship.
 
 ---
 
