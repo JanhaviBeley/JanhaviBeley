@@ -20,11 +20,12 @@
 
 ```yaml
 Name       : Janhavi Beley
-Degree     : B.S. in Data Science and AI @ Simmons University ('27)
+Degree     : B.S. in Data Science and AI @ Simmons University 
+Graduating : May'2027
 Fellowship : Break Through Tech AI Program Fellow (2026–2027) | NASA-Funded DREAM-WSTEM Scholar
 Focus      : AI Engineering, Machine Learning, Applied Statistics
 Location   : Boston, Massachusetts
-Status     : Open to internships and entry-level opportunities
+Status     : Open to Spring 2027 internship and entry-level opportunities
 ```
 
 I'm a data science and AI major who likes projects that start with a real question — a pay gap, a pollution hotspot, a disease model — and end with a number I can defend. Recent work spans statistical inference in R, environmental/geospatial analysis in Python, and applying computer vision to biological movement data.
